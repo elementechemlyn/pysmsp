@@ -1,0 +1,2 @@
+include cleanup.py
+include build_structures.sh
