@@ -6,7 +6,7 @@ https://nhsconnect.github.io/spine-smsp/
 
 Currently this package just contains a set of models for building the ITK payloads.
 
-Functions to wrap thatpayload in an ITK envelope and send it somewhere are not yet available
+Functions to wrap that payload in an ITK envelope and send it somewhere are not yet available
 
 ## Installing
 
